@@ -1,0 +1,4 @@
+appname: Annamalai's Digital Invitation
+prod_domain: invitation.annamalai.er.in
+application_type: WEB_SERVER_APPLICATION
+nginx_config: Config/static-nginx.conf
